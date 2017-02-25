@@ -4,6 +4,7 @@
 //
 //  Created by XZZ on 10/11/16.
 //  Copyright © 2016 XZZ. All rights reserved.
+//  Function: Multicast messages among several servers using the Spread Toolkit.
 //
 
 #include "sp.h"
